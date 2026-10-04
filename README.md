@@ -1,6 +1,3 @@
-<!-- Banner Image -->
-![Header Banner](https://raw.githubusercontent.com/devezzy/devezzy/refs/heads/main/banner.jpg)
-
 # Hi, I'm Faizal Hassan 👋
 ### .NET Full Stack Developer | Computer Science Student
 
